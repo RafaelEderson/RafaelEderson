@@ -1,9 +1,9 @@
 ## Olá, eu sou o Rafael Ederson 👋
 
 
-- 🔭 Eu estou trabalhando atualmente na área comercial ...
-- 🌱 Cursando 4° período de Sistemas de Informação ...
-- 😄 Pronouns: Ele/Dele ...
+- 🔭 Eu estou trabalhando atualmente na área comercial
+- 🌱 Cursando 4° período de Sistemas de Informação
+- 😄 Pronouns: Ele/Dele 
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelEderson)](https://github.com/RafaelEderson/github-readme-stats)
 <div>
