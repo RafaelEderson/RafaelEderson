@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Meu nome é Rafael Ederson, tenho 27 anos e sou de Belo Horizonte (MG). Atualmente, estou cursando Sistemas de Informação, no primeiro período.
+Meu nome é Rafael Ederson, tenho 27 anos e sou de Belo Horizonte (MG). Atualmente, estou cursando Sistemas de Informação, no segundo período.
 
 Este repositório faz parte da minha jornada de aprendizado na área de tecnologia, onde compartilho projetos, estudos e experimentos ao longo da minha formação.
 
